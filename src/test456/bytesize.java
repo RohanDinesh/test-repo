@@ -11,6 +11,7 @@ public class bytesize {
         System.out.println("Byte max: " +Byte.MAX_VALUE);
         System.out.println("Char min: " + Character.MIN_VALUE+0);
         System.out.println("Short max: " +Short.MAX_VALUE);
+
     }
 
 }

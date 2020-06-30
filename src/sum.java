@@ -18,3 +18,6 @@ public class sum
         System.out.println(test(1, 12, 65, 454, 648, 42, 1, 412, 21, 4, 1245, 1225, 4512, 1545, 2121, 52, 54, 15, 5, 212, 21, 2315, 454));
     }
 }
+
+
+// int[] arrayname = new int[10];
